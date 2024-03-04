@@ -1,2 +1,2 @@
-yyu
+pyyu
 # rasengan
